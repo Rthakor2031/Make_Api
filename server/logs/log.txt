@@ -1,5 +1,2 @@
-User: Alok, Role: Explorer
-User: Rinku, Role: Admin
-User: Rinku, Role: Admin
-User: Rinku, Role: Admin
+
 User: rahul2, Role: Admin
